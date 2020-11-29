@@ -1,2 +1,2 @@
 # fccsydneywebsite
-Free Code Camp Sydney Website
+JavaScript Study Group
